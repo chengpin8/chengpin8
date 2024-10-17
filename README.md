@@ -10,7 +10,7 @@ github pages仓库地址：<https://chengpin8.github.io>
 
 ## ⚡其他补充⚡
 
-你还在苦苦寻找资源吗？今天从这里开始一切变量容易！
+你还在苦苦寻找资源吗？今天从这里开始一切变得容易！
 <!--
 **chengpin8/chengpin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
