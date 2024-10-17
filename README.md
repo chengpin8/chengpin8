@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## 👋关于chengpin8开源仓库 👋
+这里是游戏乐园，主要介绍成品游戏免费入口地址，找H游戏的朋友应该收藏本仓库，带你畅游男生晚上偷偷都想玩的游戏海洋！
+## 😄怎么获取免费H游戏网站入口😄
+主网站入口：<https://qfafa.com>
+github pages仓库地址：<https://chengpin8.github.io>
+## 其他补充
+你还在苦苦寻找资源吗？今天从这里开始一切变量容易！
 <!--
 **chengpin8/chengpin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
